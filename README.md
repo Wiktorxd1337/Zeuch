@@ -1,5 +1,5 @@
 
-# <span><svg width="24" height="24" fill="white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 2L3 14h8v8l10-12h-8z"/></svg></span> Wiktor 'zeuch' Michalski 
+# ⚡Wiktor 'zeuch' Michalski 
 
 👋 Cześć! Mowią na mnie zeuch. Specjalizuję się w projektowaniu oraz tworzeniu nowoczesnych stron internetowych. W swoich projektach łączę estetykę z funkcjonalnością, dbając o detale i intuicyjność interfejsu. Na GitHubie znajdziesz moje najnowsze realizacje, od interaktywnych witryn po zoptymalizowane pod kątem UX/UI rozwiązania.
 
