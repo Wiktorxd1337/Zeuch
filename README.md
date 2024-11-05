@@ -32,10 +32,10 @@ Chętnie podejmuję się nowych wyzwań – zapraszam do kontaktu!
 
 - **Projektowanie UX/UI**: Figma <img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="30" height="30"/> 
 
-- **Tworzenie stron internetowych**: Framer.![Framer](https://simpleicons.org/icons/framer.svg)
-- **obsługa systemów zarządzania treścią (CMS)**: Framer.
-- **Obróbka graficzna**: Photoshop.![Photoshop](https://simpleicons.org/icons/adobephotoshop.svg)
-- **Zastosowanie sztucznej inteligencji**: Chat GPT![ChatGPT](https://simpleicons.org/icons/openai.svg), Copilot![OpenAI](https://simpleicons.org/icons/openai.svg), Midjourney.
+- **Tworzenie stron internetowych**: Framer<img src="https://simpleicons.org/icons/framer.svg" alt="Figma" width="30" height="30"/>.
+- **obsługa systemów zarządzania treścią (CMS)**: Framer<img src="https://simpleicons.org/icons/framer.svg" alt="Figma" width="30" height="30"/>.
+- **Obróbka graficzna**: Photoshop<img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="Figma" width="30" height="30"/>.
+- **Zastosowanie sztucznej inteligencji**: Chat GPT <img src="https://simpleicons.org/icons/openai.svg" alt="Figma" width="30" height="30"/>, Copilot<img src="https://simpleicons.org/icons/openai.svg" alt="Figma" width="30" height="30"/>, Midjourney.
 - **Zarządzanie projektem:**: Umiejętność planowania i zarządzania całym procesem tworzenia strony, od pomysłu do wdrożenia, w tym podłączenie systemów płatności..
 - **Full-Stack Development:**: Umiejętność pracy zarówno w zakresie frontend (interfejs użytkownika), jak i backend (logika serwera, baza danych) aplikacji..
 
