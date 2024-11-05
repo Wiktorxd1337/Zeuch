@@ -30,7 +30,7 @@ Chętnie podejmuję się nowych wyzwań – zapraszam do kontaktu!
 
 ## 🛠️ Umiejętności
 
-- **Projektowanie UX/UI**: Figma <img src="[https://simpleicons.org/icons/figma.svg](https://simpleicons.org/icons/figma.svg)" alt="Figma" width="30" height="30"/> 
+- **Projektowanie UX/UI**: Figma <img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="30" height="30"/> 
 
 - **Tworzenie stron internetowych**: Framer.![Framer](https://simpleicons.org/icons/framer.svg)
 - **obsługa systemów zarządzania treścią (CMS)**: Framer.
