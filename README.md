@@ -30,11 +30,11 @@ Chętnie podejmuję się nowych wyzwań – zapraszam do kontaktu!
 
 ## 🛠️ Umiejętności
 
-- **Projektowanie UX/UI**: Figma.
-- **Tworzenie stron internetowych**: Framer.
+- **Projektowanie UX/UI**: Figma.![Figma](https://simpleicons.org/icons/figma.svg)
+- **Tworzenie stron internetowych**: Framer.![Framer](https://simpleicons.org/icons/framer.svg)
 - **obsługa systemów zarządzania treścią (CMS)**: Framer.
-- **Obróbka graficzna**: Photoshop.
-- **Zastosowanie sztucznej inteligencji**: Chat GPT, Copilot, Midjourney.
+- **Obróbka graficzna**: Photoshop.![Photoshop](https://simpleicons.org/icons/adobephotoshop.svg)
+- **Zastosowanie sztucznej inteligencji**: Chat GPT![ChatGPT](https://simpleicons.org/icons/openai.svg), Copilot![OpenAI](https://simpleicons.org/icons/openai.svg), Midjourney.
 - **Zarządzanie projektem:**: Umiejętność planowania i zarządzania całym procesem tworzenia strony, od pomysłu do wdrożenia, w tym podłączenie systemów płatności..
 - **Full-Stack Development:**: Umiejętność pracy zarówno w zakresie frontend (interfejs użytkownika), jak i backend (logika serwera, baza danych) aplikacji..
 
